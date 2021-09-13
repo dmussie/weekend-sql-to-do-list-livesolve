@@ -1,0 +1,35 @@
+Strategies to not panic:
+-Build the easy setup stuff first, build moment
+-kicking it off after class Friday while content is fresh
+-take breaks
+
+Todo
+
+Setup
+[] Server setup
+    [] npm init
+    [] install express etc.
+    [] serve static files
+    [] html/js/jquery/css
+[] Database called "weekend-to-do-app-livesolve"
+[] pool.js configuration
+[] database.sql 
+    [] CREATE TABLE queries
+
+
+Features
+[] create a task
+    [] save to a Database
+    [] render the task
+[] complete a task
+    [] style it differently, once completed
+        - use CSS to do it
+[] Delete a task
+
+Styling 
+[] bg color to page 
+[] font family and size
+[] styling completed task (text color, bg color, font)
+
+Stretch Goals
+... worry about these later
